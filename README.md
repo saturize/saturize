@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&letterSpacing=8px&pause=1000&color=DF3133&vCenter=true&width=435&lines=game+dev+%26+streamer" alt="Typing SVG"/></a>
   <br/>
 </p>
-## Play "Lost and Found" now on <a href="https://saturize.itch.io/lost-and-found">itch.io</a>
+<h3>Play "Lost and Found" now on <a href="https://saturize.itch.io/lost-and-found">itch.io</a></h3>
 
   <p align="center"><br/>
     <a href="https://www.twitch.tv/saturize"><img src="https://img.shields.io/badge/twitch-000000" padding-right:50px/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
