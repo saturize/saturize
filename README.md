@@ -3,7 +3,7 @@
 <img src="https://lanyard.cnrad.dev/api/1272945881603244163?bg=000000&showDisplayName=false&hideDecoration=false&hideBadges=false&hideActivity=true&hideSpotify=false&idleMessage=fff&hideProfile=false&hideStatus=false&hideTimestamp=false" width="560"/></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&letterSpacing=8px&pause=1000&color=DF3133&vCenter=true&width=435&lines=game+dev+%26+streamer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&letterSpacing=8px&pause=1000&color=ff0000&vCenter=true&width=435&lines=game+dev+%26+streamer"/>
   <br/>
 </p>
 
