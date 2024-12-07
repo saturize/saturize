@@ -8,7 +8,7 @@
 </p>
 
 - mainly use 
-- sometime code discord bot in <img src="https://skillicons.dev/icons?i=discordjs" width="16" height="16"/>
+- sometime code discord bot in <img src="https://skillicons.dev/icons?i=discordjs" alt="DISCORD.JS" width="16" height="16"/>
 <h3>Play "Lost and Found" now on <a href="https://saturize.itch.io/lost-and-found">itch.io</a></h3>
 
   <p align="center"><br/>
