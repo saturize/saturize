@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/4jSLUHF.png" width="250" align="right" />
-<a href="https://saturize.itch.io/lost-and-found"><img src="https://imgur.com/fQZCdTR" width="560"/></a>
+<a href="https://saturize.itch.io/lost-and-found"><img src="https://i.imgur.com/fQZCdTR.png" width="560"/></a>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&letterSpacing=8px&pause=1000&color=ff0000&vCenter=true&width=435&lines=game+dev+%26+streamer"/>
   <br/>
