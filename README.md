@@ -13,9 +13,8 @@
   </a>
 </p>
 
-- mainly use <img src="https://skillicons.dev/icons?i=cpp" width="16" height="16"/> <img src="https://skillicons.dev/icons?i=cs" width="16" height="16"/>
-- sometime code discord bot in <img src="https://skillicons.dev/icons?i=js" width="16" height="16"/>
-- also use <img src="https://skillicons.dev/icons?i=html" width="16" height="16"/> <img src="https://skillicons.dev/icons?i=css" width="16" height="16"/> <img src="https://skillicons.dev/icons?i=py" width="16" height="16"/> <img src="https://skillicons.dev/icons?i=c" width="16" height="16"/> <img src="https://skillicons.dev/icons?i=php" width="16" height="16"/>
+- mainly use <img src="https://skillicons.dev/icons?i=cpp" width="16" height="16"/> and <img src="https://skillicons.dev/icons?i=cs" width="16" height="16"/>
+code discord bot in <img src="https://skillicons.dev/icons?i=js" width="16" height="16"/>
 
 <h3>Play "Lost and Found" now on <a href="https://saturize.itch.io/lost-and-found">itch.io</a></h3>
 
