@@ -1,5 +1,4 @@
 <img src="https://i.imgur.com/4jSLUHF.png" width="250" align="right" />
-
 <img src="https://lanyard.cnrad.dev/api/1272945881603244163?bg=000000&showDisplayName=false&hideDecoration=false&hideBadges=false&hideActivity=true&hideSpotify=false&idleMessage=fff&hideProfile=false&hideStatus=false&hideTimestamp=false" width="560"/></a>
 
 <p align="center">
