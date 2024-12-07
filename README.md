@@ -7,7 +7,7 @@
   <br/>
 </p>
 
-- codes in <img src="https://i.imgur.com/SuSbRGN.png" width="16" height="16"/></a>
+- codes in <img src="https://i.imgur.com/SuSbRGN.png" width="20" height="20"/></a>
 <h3>Play "Lost and Found" now on <a href="https://saturize.itch.io/lost-and-found">itch.io</a></h3>
 
   <p align="center"><br/>
