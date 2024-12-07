@@ -7,6 +7,6 @@
   <br/>
 </p>
 Play "Lost and Found" now on [itch.io](https://saturize.itch.io/lost-and-found "itch.io")
-<br/>
-  <p align="center"><a href="https://www.twitch.tv/saturize"><img src="https://img.shields.io/badge/twitch-000000" style="margin: 0 10px;" /></a><a href="https://discord.com/invite/saturize"><img src="https://img.shields.io/badge/discord-000000" style="margin: 0 10px;" /></a><a href="https://www.tiktok.com/@saturize"><img src="https://img.shields.io/badge/tiktok-000000" style="margin: 0 10px;" /></a>
+
+  <p align="center"><br/><a href="https://www.twitch.tv/saturize"><img src="https://img.shields.io/badge/twitch-000000" style="margin: 0 10px;" /></a><a href="https://discord.com/invite/saturize"><img src="https://img.shields.io/badge/discord-000000" style="margin: 0 10px;" /></a><a href="https://www.tiktok.com/@saturize"><img src="https://img.shields.io/badge/tiktok-000000" style="margin: 0 10px;" /></a>
   </p>
