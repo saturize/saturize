@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,unity,unreal,godot,blender,figma,github,visualstudio,vscode,dotnet" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,unity,unreal,godot,blender" />
   </a>
 </p>
 
