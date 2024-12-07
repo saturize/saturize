@@ -7,15 +7,6 @@
   <br/>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal"/>
-  </a>
-</p>
-
-- mainly use <img src="https://skillicons.dev/icons?i=cpp" width="16" height="16"/> and <img src="https://skillicons.dev/icons?i=cs" width="16" height="16"/>
-- sometime code discord.js bot <img src="https://skillicons.dev/icons?i=js" width="16" height="16"/>
-
 <h3>Play "Lost and Found" now on <a href="https://saturize.itch.io/lost-and-found">itch.io</a></h3>
 
   <p align="center"><br/>
