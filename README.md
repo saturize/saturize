@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=30&letterSpacing=8px&pause=1000&color=DF3133&vCenter=true&width=435&lines=game+dev+%26+streamer" alt="Typing SVG" style="margin: 0 0 -20px;"/></a>
   <br/>
 </p>
-Play "Lost and Found" now on [itch.io](https://saturize.itch.io/lost-and-found "itch.io")
+Play "Lost and Found" now on <a href="https://saturize.itch.io/lost-and-found">itch.io</a>
 
   <p align="center"><br/><a href="https://www.twitch.tv/saturize"><img src="https://img.shields.io/badge/twitch-000000" style="margin: 0 10px;" /></a><a href="https://discord.com/invite/saturize"><img src="https://img.shields.io/badge/discord-000000" style="margin: 0 10px;" /></a><a href="https://www.tiktok.com/@saturize"><img src="https://img.shields.io/badge/tiktok-000000" style="margin: 0 10px;" /></a>
   </p>
