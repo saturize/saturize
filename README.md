@@ -8,6 +8,7 @@
 </p>
 
 <h3>Play "Lost and Found" now on <a href="https://saturize.itch.io/lost-and-found">itch.io</a></h3>
+<a href="https://saturize.itch.io/lost-and-found"><img src="https://i.imgur.com/fQZCdTR.png" width="560"/></a>
 
   <p align="center"><br/>
     <a href="https://www.twitch.tv/saturize"><img src="https://img.shields.io/badge/twitch-000000" padding-right:50px/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
