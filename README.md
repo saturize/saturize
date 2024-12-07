@@ -8,5 +8,5 @@
 </p>
 Play "Lost and Found" now on <a href="https://saturize.itch.io/lost-and-found">itch.io</a>
 
-  <p align="center"><br/><a href="https://www.twitch.tv/saturize"><img src="https://img.shields.io/badge/twitch-000000"/></a>      <a href="https://discord.com/invite/saturize"><img src="https://img.shields.io/badge/discord-000000"/></a>      <a href="https://www.tiktok.com/@saturize"><img src="https://img.shields.io/badge/tiktok-000000"/></a>
+  <p align="center"><br/><a href="https://www.twitch.tv/saturize"><img src="https://img.shields.io/badge/twitch-000000" padding-right:10px/></a> <a href="https://discord.com/invite/saturize"><img src="https://img.shields.io/badge/discord-000000"/></a> <a href="https://www.tiktok.com/@saturize"><img src="https://img.shields.io/badge/tiktok-000000"/></a>
   </p>
