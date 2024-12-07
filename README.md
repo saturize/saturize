@@ -7,13 +7,8 @@
   <br/>
 </p>
 
+a
 <h3>Play "Lost and Found" now on <a href="https://saturize.itch.io/lost-and-found">itch.io</a></h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,unity,unreal,godot,blender" />
-  </a>
-</p>
 
   <p align="center"><br/>
     <a href="https://www.twitch.tv/saturize"><img src="https://img.shields.io/badge/twitch-000000" padding-right:50px/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
